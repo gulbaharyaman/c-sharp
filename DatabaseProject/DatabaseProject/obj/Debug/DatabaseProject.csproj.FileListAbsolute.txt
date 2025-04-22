@@ -1,0 +1,7 @@
+C:\Users\gulba\OneDrive\Masaüstü\C#\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.exe.config
+C:\Users\gulba\OneDrive\Masaüstü\C#\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.exe
+C:\Users\gulba\OneDrive\Masaüstü\C#\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.pdb
+C:\Users\gulba\OneDrive\Masaüstü\C#\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csproj.AssemblyReference.cache
+C:\Users\gulba\OneDrive\Masaüstü\C#\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\gulba\OneDrive\Masaüstü\C#\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.exe
+C:\Users\gulba\OneDrive\Masaüstü\C#\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.pdb
