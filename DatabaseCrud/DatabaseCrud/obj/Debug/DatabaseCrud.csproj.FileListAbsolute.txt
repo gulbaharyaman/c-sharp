@@ -1,0 +1,7 @@
+C:\Users\gulba\OneDrive\Masaüstü\C#\DatabaseCrud\DatabaseCrud\obj\Debug\DatabaseCrud.csproj.AssemblyReference.cache
+C:\Users\gulba\OneDrive\Masaüstü\C#\DatabaseCrud\DatabaseCrud\obj\Debug\DatabaseCrud.csproj.CoreCompileInputs.cache
+C:\Users\gulba\OneDrive\Masaüstü\C#\DatabaseCrud\DatabaseCrud\bin\Debug\DatabaseCrud.exe.config
+C:\Users\gulba\OneDrive\Masaüstü\C#\DatabaseCrud\DatabaseCrud\bin\Debug\DatabaseCrud.exe
+C:\Users\gulba\OneDrive\Masaüstü\C#\DatabaseCrud\DatabaseCrud\bin\Debug\DatabaseCrud.pdb
+C:\Users\gulba\OneDrive\Masaüstü\C#\DatabaseCrud\DatabaseCrud\obj\Debug\DatabaseCrud.exe
+C:\Users\gulba\OneDrive\Masaüstü\C#\DatabaseCrud\DatabaseCrud\obj\Debug\DatabaseCrud.pdb
